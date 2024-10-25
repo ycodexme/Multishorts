@@ -1,0 +1,10 @@
+flask
+flask-cors
+moviepy
+pillow
+yt-dlp
+numpy
+torch
+whisper
+python-dotenv
+mistralai
